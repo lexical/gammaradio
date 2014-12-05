@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Gamma Radio
+Comment=Radio of HiChannel
+Exec=gammaradio
+Terminal=false
+Type=Application
+Icon=gammaradio.xpm
+Categories=Audio;Player;
