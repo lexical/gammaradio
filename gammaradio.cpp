@@ -18,7 +18,7 @@ GammaRadio::GammaRadio(QWidget *parent) : QMainWindow(parent)
 
 	QWebSettings::globalSettings()->setAttribute(QWebSettings::PluginsEnabled, true);
 	QWebSettings::globalSettings()->setAttribute(QWebSettings::AutoLoadImages, true);
-	m_pWebView->load(QUrl("http://hichannel.hinet.net/radio/mobile/index.do"));
+	m_pWebView->load(QUrl("http://hichannel.hinet.net/radio/index.do"));
 }
      
 GammaRadio::~GammaRadio()
