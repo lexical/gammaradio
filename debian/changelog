@@ -1,3 +1,10 @@
+gammaradio (0.1-2) vivid; urgency=low
+
+  * debian/control depends on: flashplugin-installer|adobe-flashplugin
+  * update new HiChannel URL.
+
+ -- Keng-Yu Lin <kengyu@ubuntu.com>  Wed, 04 Mar 2015 13:58:29 +0800
+
 gammaradio (0.1-1) vivid; urgency=low
 
   * Initial release
